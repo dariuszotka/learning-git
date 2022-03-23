@@ -1,1 +1,1 @@
-print("mi")
+print("mi mo mu")
