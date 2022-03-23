@@ -1,2 +1,2 @@
 print("mi mo mu")
-print("mimi"
+print("mimi")
